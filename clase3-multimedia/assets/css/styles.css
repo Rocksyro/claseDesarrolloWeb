@@ -1,0 +1,11 @@
+#principal{
+    background-color: rgb(153, 229, 153);
+}
+
+.titulo-noticia{
+    color: rgb(140, 0, 255);
+}
+
+li{
+    color: red;
+}

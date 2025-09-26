@@ -1,0 +1,60 @@
+@import url('https://fonts.googleapis.com/css2?family=Story+Script&display=swap');
+
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+a:link {
+  color: green;
+  text-decoration: none;
+}
+
+a:visited {
+  color: rgb(147, 160, 1);
+}
+
+a:hover {
+  color: red;
+}
+
+a:active {
+  color: rgb(225, 0, 255);
+}
+
+#principal {
+    background-color: rgb(153, 229, 153);
+}
+
+.titulo-noticia {
+    color: rgb(140, 0, 255);
+}
+
+li {
+    color: #0027F2;
+}
+
+#tprincipal {
+    font-family: "Story Script", sans-serif;
+    font-weight: 400;
+    font-style: normal;
+    font-size: 80px;
+    border: 10px black solid;
+    margin: 20px;
+}
+
+#tprincipal:hover {
+    color: #0027F2;
+}
+
+header {
+    width: 100vw;
+    height: 25%;
+}
+
+footer{
+    background-image: url('../images/fondo.jpg');
+    background-repeat: repeat;
+    background-size: 150px;
+}
