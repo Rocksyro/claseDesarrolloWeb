@@ -3,19 +3,17 @@
 = operador de asignación
 
 ## Operadores aritméticos
-
 Suma +
 Resta -
 Multiplicación *
 División /
 Modulo %
-Incremento ++
+Incremento ++ -> Suma 1
 10++
-Decremento -- 
+Decremento -- -> Resta 1 
 10--
 
 ## Operadores de comparación
-
 Igualdad ==
 Desigualdad != ( ! = )
 Igualdad estricta  ===
@@ -44,7 +42,7 @@ NOT !
 
 ## Alert
 
-Alert es una función que muestra un mensaje en la consola del navegador. Se utiliza para mostrar mensajes de error o advertencia.
+Alert es una función que muestra un mensaje en el navegador. Se utiliza para mostrar mensajes de error o advertencia.
 
 alert("Bienvenido")
 alert("Error: no se puede realizar la operación")
